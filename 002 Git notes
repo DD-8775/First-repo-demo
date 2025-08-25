@@ -1,0 +1,18 @@
+Remote system : GITHUB 
+Local system : OUR PC 
+
+1. To add a github repo to our system we use command : git clone <url>      (url of the repo from github)
+
+2. To list all items : ls
+3. to list hdden items : ls -a   or   ls -h
+
+4. To change directory : cd <name of the directory>     
+
+5. To check status : git status
+
+6. To add changes done in a file : git add <file name>
+7. To add all the changes done : git add .
+
+8. To commit changes : git commit -m"<the message for commit>"
+
+9. To push you code : git push origin main
