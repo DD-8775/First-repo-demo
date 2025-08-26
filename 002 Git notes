@@ -15,4 +15,22 @@ Local system : OUR PC
 
 8. To commit changes : git commit -m"<the message for commit>"
 
-9. To push you code : git push origin main
+9. To push your code : git push origin <branch name>     or    git push -u origin <branch name>
+
+10. To exit a directory : cd ..
+11. To make a new directory : mrdir <name of directory>
+
+12. To make a directory a git directory : git init
+
+13. To add a new local file on github .... First make a repo on github without readme file, then in the terminal of the new file : git remote add origin <url>   
+
+14. To check what our current remote repo is : git remote -v
+
+15. To check ehat our current branch is : git branch
+16. To change the name of the current branch : git branch -M <name of the branch>
+
+17. To create a new branch : git checkout -b <name of new branch>
+18. To navigate from one branch to other : git checkout <branch name>
+19. To delete a branch : git branch -d <branch name>
+
+20. 
