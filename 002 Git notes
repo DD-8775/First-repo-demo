@@ -43,4 +43,3 @@ Local system : OUR PC
 23. To undo staged changes i.e, the changes which we have add : git reset <file name>      or      git reset
 24. To undo commited change (for one commit) : git reset HEAD~1
 25. To get log of commits : git log
-26. To undo specific commited change copy hash code written after commit in log : git reset <hash code>
